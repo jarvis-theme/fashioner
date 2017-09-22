@@ -142,7 +142,7 @@
 									<strong>Quantity:</strong>
 									<span class="quantity-sapn">
 										<em class="plus">+</em>
-										<input type="text" name="qty" id="quantity1" value="1" class="result">
+										<input type="text" name="qty" id="quantity1" value="1" class="result" pattern="[0-9]">
 										<em class="minus">-</em>
 									</span>
 								</div>

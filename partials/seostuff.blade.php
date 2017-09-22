@@ -22,3 +22,4 @@
 <link rel="canonical" href="{{ URL::full() }}">
 
 {{ favicon() }}
+{{ pluginHeader() }}

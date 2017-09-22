@@ -49,21 +49,20 @@ return array(
     ),
 
     'num_display' => array(
-        'home_product'=>9,
-        'main_product'=>9,
-        'related_product'=>8,
-        'latest_product'=>8,
-        'bestseller'=>8,
-        'featured'=>8,
-        'blog'=>5,
-        'testimonial'=>4,
+        'home_product'      => 9,
+        'main_product'      => 9,
+        'related_product'   => 8,
+        'latest_product'    => 8,
+        'bestseller'        => 8,
+        'featured'          => 8,
+        'blog'              => 5,
+        'testimonial'       => 4,
+        'image_product'     => 'large',
+        'image_slide'       => 1200,
+        'image_mainbanner'  => 750,
+        'image_sidebanner'  => 350
     ),
     'banner' => true,
     'themesColor' => false,
-    /*'themesColor' => array(
-        'type'=> 'false',
-        'warnaDef'=>'main-color:#313131;secondary-color:#ff7300',
-        'color'=>false
-    ),*/
     'layout' => false,
 );
